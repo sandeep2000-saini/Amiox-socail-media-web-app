@@ -4,7 +4,7 @@ I independently designed and developed a unique social media platform focused on
 •	Integrated Cloudinary and Multer for secure media uploads; used FFmpeg and Sharp for video/image optimization; implemented Google Maps API with custom styling for user search. </br>
 •	Applied Redux Toolkit with Redux Persist for robust state management; enhanced UI with Framer Motion, GSAP, and Lottie animations for a smooth user experience. </br> </br>
 
-This is the output of this website
+This is the output of, this project (AMIOX Socail media Website ). 
 
 
 https://github.com/user-attachments/assets/05ae5328-4a29-41b7-ba90-7312b7bf152e
