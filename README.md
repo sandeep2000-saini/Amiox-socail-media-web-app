@@ -5,3 +5,9 @@ I independently designed and developed a unique social media platform focused on
 •	Applied Redux Toolkit with Redux Persist for robust state management; enhanced UI with Framer Motion, GSAP, and Lottie animations for a smooth user experience. </br> </br>
 
 This is the output of this website
+
+
+https://github.com/user-attachments/assets/05ae5328-4a29-41b7-ba90-7312b7bf152e
+
+https://github.com/user-attachments/assets/6ebb0e1d-8014-4161-b97e-f2dda9b07d35
+
