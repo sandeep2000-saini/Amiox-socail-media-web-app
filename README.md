@@ -1,5 +1,5 @@
 I independently designed and developed a unique social media platform focused on card sharing and card collection instead of traditional follow systems. To collaborate, users must collect each other’s cards, which then appear on both profiles. The platform includes a custom user search feature like Snapchat, showing profile and area-based location while maintaining user privacy.	</br>
-•	Built a full-stack social media platform with authentication, real-time updates (Socket.io), and media post types including photos, videos, short videos, and blog posts on a unified home page.
-•	Designed user-friendly login/signup flows, dynamic profile pages with user card, bio, media sections, and a functional settings page with profile edit.
-•	Integrated Cloudinary and Multer for secure media uploads; used FFmpeg and Sharp for video/image optimization; implemented Google Maps API with custom styling for user search.
-•	Applied Redux Toolkit with Redux Persist for robust state management; enhanced UI with Framer Motion, GSAP, and Lottie animations for a smooth user experience.
+•	Built a full-stack social media platform with authentication, real-time updates (Socket.io), and media post types including photos, videos, short videos, and blog posts on a unified home page. </br>
+•	Designed user-friendly login/signup flows, dynamic profile pages with user card, bio, media sections, and a functional settings page with profile edit. </br>
+•	Integrated Cloudinary and Multer for secure media uploads; used FFmpeg and Sharp for video/image optimization; implemented Google Maps API with custom styling for user search. </br>
+•	Applied Redux Toolkit with Redux Persist for robust state management; enhanced UI with Framer Motion, GSAP, and Lottie animations for a smooth user experience. </br>
